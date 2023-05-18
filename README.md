@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EndaleKinfe
-- 👀 I’m interested in web development  and data science 
-- 🌱 I’m currently learning JavaScript and Python 
+- 👀 I’m interested in programming related things
+- 🌱 I’m currently learning computer science at saint mary's university 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
